@@ -37,7 +37,6 @@ Inicio
    senao
       se ( resultado < C)  entao
          escreval ("A + B é menor que C")
-      senao
       fimse
    fimse
 
