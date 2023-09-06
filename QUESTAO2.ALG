@@ -1,13 +1,13 @@
 Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Disciplina  :  [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 05/09/2023
 Var
-// Faça um algoritmo que leia o nome, o sexo e o estado civil de uma pessoa.
-//Caso sexo seja “F” e estado civil seja “CASADA”, solicitar o tempo de
-//casada (anos). Por fim, mostre os dados do usuário.
+// FaÃ§a um algoritmo que leia o nome, o sexo e o estado civil de uma pessoa.
+//Caso sexo seja â€œFâ€ e estado civil seja â€œCASADAâ€, solicitar o tempo de
+//casada (anos). Por fim, mostre os dados do usuÃ¡rio.
 
 nome:caracter
 sexo: caracter
